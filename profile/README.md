@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://railblocks.co"><strong>Learn More</strong></a>
+  <a href="https://railblocks.com"><strong>Learn More</strong></a>
 </p>
 
 <p align="center">
-  • <a href="https://railblocks.co">Website</a> •
+  • <a href="https://railblocks.com">Website</a> •
 </p>
